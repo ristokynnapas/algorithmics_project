@@ -1,0 +1,10 @@
+Some useful links for future iterations:
+1. Deep learning projects, algorithms for Satellite imagery - https://github.com/robmarkcole/satellite-image-deep-learning
+2. CNN: https://divamgupta.com/image-segmentation/2019/06/06/deep-learning-semantic-segmentation-keras.html
+3. U-Net: https://github.com/rogerxujiang/dstl_unet
+4. K-means: http://www.acgeospatial.co.uk/k-means-sentinel-2-python/
+5. Flora calculations and code: 
+  5.1 https://github.com/DanielMoraite/DanielMoraite.github.io/blob/master/assets/Exploring%20the%20Satellite%20Imagery-Copy1.ipynb
+  5.2 https://www.hatarilabs.com/ih-en/ndvi-calculation-from-landsat8-images-with-python-3-and-rasterio-tutorial
+6. General knowledge: https://mygeoblog.com/2019/10/18/using-artificial-intelligence-for-satellite-image-classification/
+ 
